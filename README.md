@@ -11,7 +11,7 @@
 ## V1.0 - Versão inicial.
 
 Repositório criado para compartilhar preset customizado de Touch Bar minimalista para BetterTouchTool.
-Use o código livremente e seja feliz. Espero ter contribuído para sua experiência com o MacBook.
+Use o código/preset livremente e seja feliz. Espero ter contribuído para sua experiência com o MacBook.
 Aceito sugestões. Se encontrar algo que não está funcionando bem, por favor me avise.
 
 ## Itens da touchbar (da esquerda para a direita):
