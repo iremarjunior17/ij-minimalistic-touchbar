@@ -1,10 +1,12 @@
 # ij-minimalistic-touchbar
 
-![](https://imgur.com/a/Fh1VRjX)
+![alt text](https://i.imgur.com/IRnGsTW.png)
 
-![](https://imgur.com/bslnpil)
+![alt text](https://i.imgur.com/bslnpil.png)
 
-![](https://imgur.com/R90DRtB)
+![alt text](https://i.imgur.com/R90DRtB.png)
+
+[comment]: <> (https://imgur.com/a/Fh1VRjX)
 
 V1.0 - Versão inicial.
 
@@ -26,3 +28,8 @@ Itens da touchbar (da esquerda para a direita):
 Segunda tela (visível quando Option é pressionado):
 - Widget de dock. Espelha os itens da Dock;
 - Ícone de trava. Ao ser pressionado continuamente trava e coloca o computador para dormir.
+
+Ações de deslizar na touchbar:
+- Deslize com 2 dedos para aumentar/diminuir volume;
+- Deslize com 3 dedos para aumentar/diminuir brilho da tela;
+- Deslize com 4 dedos para aumentar/diminuir brilho da luz de teclado.
