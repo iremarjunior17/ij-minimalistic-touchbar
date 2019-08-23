@@ -8,13 +8,13 @@
 
 [comment]: <> (https://imgur.com/a/Fh1VRjX)
 
-V1.0 - Versão inicial.
+## V1.0 - Versão inicial.
 
 Repositório criado para compartilhar preset customizado de Touch Bar minimalista para BetterTouchTool.
 Use o código livremente e seja feliz. Espero ter contribuído para sua experiência com o MacBook.
 Aceito sugestões. Se encontrar algo que não está funcionando bem, por favor me avise.
 
-Itens da touchbar (da esquerda para a direita):
+## Itens da touchbar (da esquerda para a direita):
 - Botão ESC;
 - Botão para visualizar a touchbar original;
 - Widget de clima/tempo. Mostra ícone do clima atual, temperatura (°C) e umidade relativa. Ao ser clicado mostra mais informações do clima atual, data e fase da lua;
@@ -25,11 +25,11 @@ Itens da touchbar (da esquerda para a direita):
 - Widget de data. Mostra dia da semana e dia do mês;
 - Hora. Ao ser pressionada continuamente trava o computador
 
-Segunda tela (visível quando Option é pressionado):
+## Segunda tela (visível quando Option é pressionado):
 - Widget de dock. Espelha os itens da Dock;
 - Ícone de trava. Ao ser pressionado continuamente trava e coloca o computador para dormir.
 
-Ações de deslizar na touchbar:
+## Ações de deslizar na touchbar:
 - Deslize com 2 dedos para aumentar/diminuir volume;
 - Deslize com 3 dedos para aumentar/diminuir brilho da tela;
 - Deslize com 4 dedos para aumentar/diminuir brilho da luz de teclado.
